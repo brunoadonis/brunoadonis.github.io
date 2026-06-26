@@ -78,7 +78,7 @@ a {
 }
 
 .hero p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #cbd5e1;
   margin-bottom: 2rem;
 }
@@ -129,6 +129,7 @@ a {
 .section p {
   color: #cbd5e1;
   font-size: 1.05rem;
+  text-align: justify;
 }
 
 .projects-grid {
